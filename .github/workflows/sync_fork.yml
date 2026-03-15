@@ -9,7 +9,7 @@ permissions:
   contents: write          # 允许推送代码和创建 Release
 
 env:
-  UPSTREAM_REPO: hobin66/nodectl   # ⚠️ 替换为你的上游仓库
+  UPSTREAM_REPO: arloor/nftables-nat-rust   # ⚠️ 替换为你的上游仓库 
 
 jobs:
   sync_all:
